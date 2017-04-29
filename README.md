@@ -20,7 +20,7 @@ You're looking at the demo
 ## Installation
 <!------------------------------------------------------->
 
-```
+```sh
 curl -OL https://raw.githubusercontent.com/jamrizzi/readme/master/README.md
 ```
 
