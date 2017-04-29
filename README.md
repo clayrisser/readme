@@ -25,6 +25,12 @@ curl -OL https://raw.githubusercontent.com/jamrizzi/readme/master/README.md
 ```
 
 
+## Dependencies
+<!------------------------------------------------------->
+
+A calico cat
+
+
 ## Usage
 <!------------------------------------------------------->
 
@@ -77,6 +83,9 @@ A ridiculous amount of coffee was consumed in the process of building this proje
 
 ## Changelog
 <!------------------------------------------------------->
+
+0.0.2 (2017-04-28)
+* Added dependencies section
 
 0.0.1 (2017-04-28)
 * Initial release
